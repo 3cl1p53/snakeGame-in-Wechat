@@ -1,0 +1,5 @@
+<!-- 设置休闲模式画布game1 -->
+<canvas canvas-id="game2Canvas" class="snake-canvas-C" 
+		style="width: 100%; height: 100%; background-color: #FFFFF0"
+		bindtouchstart="touchStart" bindtouchmove="touchMove">
+</canvas>

@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/choice/choice",
+    "pages/game1/game1",
+    "pages/game2/game2"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FFFFF0",
+    "navigationBarTitleText": "休闲贪吃蛇",
+    "navigationBarTextStyle":"black"
+  }
+}

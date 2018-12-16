@@ -1,0 +1,9 @@
+<view class="bgcolor">
+	<view class="title">
+		<text class="choicepage">点击下方其中一种模式 开始游戏</text>
+	</view>
+	<view class="demo">
+		<button class="button1" bindtap="navigate1">休闲模式</button>
+		<button class="button2" bindtap="navigate2">无尽模式</button>
+	</view>
+</view>
