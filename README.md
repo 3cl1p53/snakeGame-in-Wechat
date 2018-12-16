@@ -6,4 +6,4 @@ You can run this code in Wechat Developer Tool. The Wechat Littile Programs are 
 ## The Page Effects
 The page effects are as follow! **I'll appreciate it if some of you can rewrite the codes for improving the program or adding more interesting things!**
 
-![image](https://github.com/MurasameTeigu/snakeGame-in-Wechat/blob/master/images/001.gif)
+![image](https://github.com/TheEclipse7/snakeGame-in-Wechat/blob/master/images/001.gif)
