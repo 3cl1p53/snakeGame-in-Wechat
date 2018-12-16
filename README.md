@@ -1,6 +1,6 @@
 # snakeGame in Wechat
 ## Brief Introduction
-After I read the program from CoderPeak/--snakeGame, I rewrite this program myself and add a little interesting version into it.
+After I read the program from [CoderPeak/--snakeGame](https://github.com/CoderPeak/---snakeGame), I rewrite this program myself and add a little interesting version into it.
 You can run this code in Wechat Developer Tool. The Wechat Littile Programs are all based on Wechat. Furthermore, Wechat Little programs are conveniet for users in Wechat and aim to achieve the goal that users need not download a new app in his or her phones to use the wechat apps.
 ***
 ## The Page Effects
